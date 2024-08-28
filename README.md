@@ -3,7 +3,7 @@
 
 
 ## Objective
-The primary goal of this project is to extract, clean, and analyze customer reviews of British Airways. This involves:
+The primary goal of this project is to extract, clean, analyze customer reviews and build a predictive model. This involves:
 
 - Web Scraping: Extracting review data from multiple pages of the Skytrax website using BeautifulSoup.
 - Data Cleaning: Removing irrelevant text (e.g., "✅ Trip Verified") and preparing the data for analysis.
